@@ -1,0 +1,11 @@
+p {
+    font-family: Verdana, Garamond, sans-serif;
+}
+
+.leaders {
+    border-collapse: collapse;
+}
+
+th,td {
+    border: 1px solid black;
+}
